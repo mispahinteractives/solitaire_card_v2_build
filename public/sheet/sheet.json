@@ -50,7 +50,7 @@
 },
 {
 	"filename": "Crate Shadow",
-	"frame": {"x":1497,"y":1650,"w":174,"h":89},
+	"frame": {"x":1215,"y":1606,"w":174,"h":89},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":1,"w":174,"h":89},
@@ -58,11 +58,11 @@
 },
 {
 	"filename": "crate",
-	"frame": {"x":1526,"y":2,"w":315,"h":271},
+	"frame": {"x":1305,"y":1433,"w":196,"h":170},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":271},
-	"sourceSize": {"w":315,"h":271}
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":296,"w":196,"h":170},
+	"sourceSize": {"w":409,"h":466}
 },
 {
 	"filename": "Diamonds-4",
@@ -82,7 +82,7 @@
 },
 {
 	"filename": "Hand",
-	"frame": {"x":1759,"y":276,"w":134,"h":165},
+	"frame": {"x":1753,"y":269,"w":134,"h":165},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":9,"y":7,"w":134,"h":165},
@@ -98,7 +98,7 @@
 },
 {
 	"filename": "Heart-7",
-	"frame": {"x":1518,"y":491,"w":295,"h":443},
+	"frame": {"x":1518,"y":498,"w":295,"h":443},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":4,"w":295,"h":443},
@@ -114,7 +114,7 @@
 },
 {
 	"filename": "Helicoptor-Propeller1",
-	"frame": {"x":1391,"y":427,"w":206,"h":61},
+	"frame": {"x":1391,"y":373,"w":206,"h":61},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":61},
@@ -122,7 +122,7 @@
 },
 {
 	"filename": "Helicoptor-Propeller2",
-	"frame": {"x":1288,"y":1648,"w":206,"h":61},
+	"frame": {"x":1010,"y":1698,"w":206,"h":61},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":61},
@@ -146,7 +146,7 @@
 },
 {
 	"filename": "Spades-A",
-	"frame": {"x":1606,"y":937,"w":295,"h":443},
+	"frame": {"x":1606,"y":944,"w":295,"h":443},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":4,"w":295,"h":443},
@@ -162,7 +162,7 @@
 },
 {
 	"filename": "Text_at-Level-10",
-	"frame": {"x":1391,"y":293,"w":365,"h":51},
+	"frame": {"x":1390,"y":444,"w":365,"h":51},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":365,"h":51},
@@ -170,7 +170,7 @@
 },
 {
 	"filename": "Text_BIG",
-	"frame": {"x":1010,"y":1685,"w":202,"h":89},
+	"frame": {"x":1010,"y":1582,"w":202,"h":89},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":89},
@@ -186,7 +186,7 @@
 },
 {
 	"filename": "Text_Mystery-Crate",
-	"frame": {"x":1391,"y":347,"w":359,"h":77},
+	"frame": {"x":1391,"y":293,"w":359,"h":77},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":77},
@@ -194,7 +194,7 @@
 },
 {
 	"filename": "Text_WIN",
-	"frame": {"x":1010,"y":1582,"w":275,"h":100},
+	"frame": {"x":1504,"y":1605,"w":275,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":275,"h":100},
@@ -210,7 +210,7 @@
 },
 {
 	"filename": "VFX_Fireworks",
-	"frame": {"x":1606,"y":1383,"w":268,"h":264},
+	"frame": {"x":1526,"y":2,"w":268,"h":264},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":264},
@@ -218,7 +218,7 @@
 },
 {
 	"filename": "wave_1",
-	"frame": {"x":1305,"y":1433,"w":211,"h":212},
+	"frame": {"x":1606,"y":1390,"w":211,"h":212},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":212},
@@ -231,6 +231,6 @@
 	"format": "RGBA8888",
 	"size": {"w":1903,"h":1823},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:d2d9bd8d0f305cdcd2b22f9017101b44:0e7b085765d274ac81a16a466227c921:9c44ecd7e9a522007eaff2949095bc1d$"
+	"smartupdate": "$TexturePacker:SmartUpdate:75874b1299bcdc265ad0c2000d1a4758:d1b7fcd8211c9c27cef6e62a3c50236a:9c44ecd7e9a522007eaff2949095bc1d$"
 }
 }
